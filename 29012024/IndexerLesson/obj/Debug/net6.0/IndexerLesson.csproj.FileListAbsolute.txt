@@ -1,0 +1,15 @@
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\IndexerLesson\bin\Debug\net6.0\IndexerLesson.exe
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\IndexerLesson\bin\Debug\net6.0\IndexerLesson.deps.json
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\IndexerLesson\bin\Debug\net6.0\IndexerLesson.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\IndexerLesson\bin\Debug\net6.0\IndexerLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\IndexerLesson\bin\Debug\net6.0\IndexerLesson.pdb
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\IndexerLesson\obj\Debug\net6.0\IndexerLesson.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\IndexerLesson\obj\Debug\net6.0\IndexerLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\IndexerLesson\obj\Debug\net6.0\IndexerLesson.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\IndexerLesson\obj\Debug\net6.0\IndexerLesson.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\IndexerLesson\obj\Debug\net6.0\IndexerLesson.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\IndexerLesson\obj\Debug\net6.0\IndexerLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\IndexerLesson\obj\Debug\net6.0\refint\IndexerLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\IndexerLesson\obj\Debug\net6.0\IndexerLesson.pdb
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\IndexerLesson\obj\Debug\net6.0\IndexerLesson.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\IndexerLesson\obj\Debug\net6.0\ref\IndexerLesson.dll

@@ -1,0 +1,15 @@
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\EnumLesson\bin\Debug\net6.0\EnumLesson.exe
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\EnumLesson\bin\Debug\net6.0\EnumLesson.deps.json
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\EnumLesson\bin\Debug\net6.0\EnumLesson.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\EnumLesson\bin\Debug\net6.0\EnumLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\EnumLesson\bin\Debug\net6.0\EnumLesson.pdb
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\EnumLesson\obj\Debug\net6.0\EnumLesson.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\EnumLesson\obj\Debug\net6.0\EnumLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\EnumLesson\obj\Debug\net6.0\EnumLesson.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\EnumLesson\obj\Debug\net6.0\EnumLesson.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\EnumLesson\obj\Debug\net6.0\EnumLesson.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\EnumLesson\obj\Debug\net6.0\EnumLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\EnumLesson\obj\Debug\net6.0\refint\EnumLesson.dll
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\EnumLesson\obj\Debug\net6.0\EnumLesson.pdb
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\EnumLesson\obj\Debug\net6.0\EnumLesson.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\EnumLesson\obj\Debug\net6.0\ref\EnumLesson.dll

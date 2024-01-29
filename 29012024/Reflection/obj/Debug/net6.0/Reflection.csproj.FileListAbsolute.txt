@@ -1,0 +1,15 @@
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\Reflection\bin\Debug\net6.0\Reflection.exe
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\Reflection\bin\Debug\net6.0\Reflection.deps.json
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\Reflection\bin\Debug\net6.0\Reflection.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\Reflection\bin\Debug\net6.0\Reflection.dll
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\Reflection\bin\Debug\net6.0\Reflection.pdb
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\Reflection\obj\Debug\net6.0\Reflection.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\Reflection\obj\Debug\net6.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\Reflection\obj\Debug\net6.0\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\Reflection\obj\Debug\net6.0\Reflection.dll
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\Reflection\obj\Debug\net6.0\refint\Reflection.dll
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\Reflection\obj\Debug\net6.0\Reflection.pdb
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\Reflection\obj\Debug\net6.0\Reflection.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLessons\26. 29-01-2024\29012024\Reflection\obj\Debug\net6.0\ref\Reflection.dll
